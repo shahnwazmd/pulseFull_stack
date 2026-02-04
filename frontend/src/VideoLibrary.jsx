@@ -127,6 +127,7 @@ const styles = {
     margin: "20px auto",
     fontFamily: "system-ui, -apple-system, 'Segoe UI', Roboto, Arial",
   },
+  
   header: {
     marginBottom: '20px'
   },
