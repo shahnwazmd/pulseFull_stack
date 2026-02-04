@@ -15,7 +15,9 @@ const jwt = require("jsonwebtoken");
 // CONFIGURATION
 
 const PORT = process.env.PORT || 4000;
+
 const MONGODB_URI = process.env.MONGO_URI;
+
 console.log("MongoDB URI:", MONGODB_URI);
 const JWT_SECRET = process.env.JWT_SECRET || "your-secret-key";
 
