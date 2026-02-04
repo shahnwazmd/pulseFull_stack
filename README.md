@@ -36,7 +36,6 @@ A full-stack MERN application that allows users to:
 ## 📌 Features
 
 | Feature | Status |
-|--------|:-----:|
 | Video upload with drag & drop | ✅ |
 | Upload progress indicator | ✅ |
 | User-specific video library | ✅ |
@@ -44,8 +43,4 @@ A full-stack MERN application that allows users to:
 | Role-based access control (Viewer / Editor / Admin) | ✅ |
 | Multi-tenant system | ✅ |
 | Video preview and secure playback | ✅ |
-
----
-
-## 🏗️ Project Structure
 
